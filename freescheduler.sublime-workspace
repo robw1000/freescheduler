@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"st",
+				"style\tTag"
+			],
+			[
 				"Care",
 				"CarePlanTasks"
 			],
@@ -111,6 +115,33 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 1472,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/ScheduleController.php",
+			"settings":
+			{
+				"buffer_size": 5557,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/schedule/resources.blade.php",
+			"settings":
+			{
+				"buffer_size": 2713,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -148,10 +179,72 @@
 	},
 	"expanded_folders":
 	[
-		"/C/websites/freescheduler"
+		"/C/websites/freescheduler",
+		"/C/websites/freescheduler/app",
+		"/C/websites/freescheduler/app/Http",
+		"/C/websites/freescheduler/app/Http/Controllers",
+		"/C/websites/freescheduler/app/Http/Controllers/Auth",
+		"/C/websites/freescheduler/database",
+		"/C/websites/freescheduler/database/migrations",
+		"/C/websites/freescheduler/public",
+		"/C/websites/freescheduler/resources",
+		"/C/websites/freescheduler/resources/views",
+		"/C/websites/freescheduler/resources/views/client",
+		"/C/websites/freescheduler/resources/views/layouts",
+		"/C/websites/freescheduler/resources/views/partials",
+		"/C/websites/freescheduler/resources/views/schedule",
+		"/C/websites/freescheduler/resources/views/staff",
+		"/C/websites/freescheduler/routes"
 	],
 	"file_history":
 	[
+		"/C/websites/freescheduler/resources/views/layouts/app.blade.php",
+		"/C/websites/freescheduler/app/Http/Controllers/StaffController.php",
+		"/C/websites/freescheduler/app/schedule.php",
+		"/C/websites/freescheduler/resources/views/schedule/index.blade.php",
+		"/C/websites/freescheduler/app/Http/Controllers/ClientController.php",
+		"/C/websites/freescheduler/resources/views/staff/index.blade.php",
+		"/C/websites/freescheduler/resources/views/schedule/planner.blade.php",
+		"/C/websites/freescheduler/.env",
+		"/C/websites/freescheduler/resources/views/schedule/create.blade.php",
+		"/C/websites/freescheduler/app/Http/Controllers/ScheduleController.php",
+		"/C/websites/freescheduler/app/staff.php",
+		"/C/websites/freescheduler/config/free-scheduler.php",
+		"/C/websites/freescheduler/config/app.php",
+		"/C/websites/freescheduler/composer.json",
+		"/C/websites/freescheduler/resources/views/client/index.blade.php",
+		"/C/websites/freescheduler/resources/views/client/create.blade.php",
+		"/C/websites/freescheduler/app/client.php",
+		"/C/websites/freescheduler/resources/views/staff/create.blade.php",
+		"/C/websites/freescheduler/resources/views/partials/errors.blade.php",
+		"/C/websites/freescheduler/database/migrations/2019_06_15_102707_client.php",
+		"/C/websites/freescheduler/database/migrations/2019_06_15_102658_staff.php",
+		"/C/websites/freescheduler/database/migrations/2019_06_15_102617_schedule.php",
+		"/C/websites/freescheduler/resources/views/home.blade.php",
+		"/C/websites/freescheduler/app/Http/Controllers/HomeController.php",
+		"/C/websites/freescheduler/resources/views/auth/register.blade.php",
+		"/C/websites/freescheduler/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/websites/freescheduler/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php",
+		"/C/websites/freescheduler/vendor/laravel/framework/src/Illuminate/Auth/Console/stubs/make/routes.stub",
+		"/C/websites/freescheduler/config/auth.php",
+		"/C/websites/freescheduler/app/Providers/RouteServiceProvider.php",
+		"/C/websites/freescheduler/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
+		"/C/websites/freescheduler/vendor/symfony/routing/Route.php",
+		"/C/websites/freescheduler/vendor/symfony/routing/Router.php",
+		"/C/websites/freescheduler/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/websites/freescheduler/README.md",
+		"/C/websites/freescheduler/routes/web.php",
+		"/C/websites/freescheduler/app/User.php",
+		"/C/websites/freescheduler/resources/views/welcome.blade.php",
+		"/C/websites/freescheduler/app/Http/Controllers/Controller.php",
+		"/C/websites/freescheduler/app/Http/Middleware/Authenticate.php",
+		"/C/websites/freescheduler/resources/views/auth/login.blade.php",
+		"/C/websites/freescheduler/app/Http/Controllers/Auth/VerificationController.php",
+		"/C/websites/freescheduler/app/Http/Controllers/Auth/LoginController.php",
+		"/C/websites/freescheduler/public/css/app.css",
+		"/C/websites/freescheduler/config/database.php",
+		"/C/websites/freescheduler/database/database.sqlite",
+		"/C/websites/freescheduler/yarn.lock",
 		"/C/websites/freescheduler/.gitignore",
 		"/C/websites/newdcp/newdcp.sublime-project",
 		"/C/websites/newdcp/app/Http/Controllers/ScheduleController.php",
@@ -232,54 +325,7 @@
 		"/C/websites/newdcp/.gitattributes",
 		"/C/websites/newdcp/.gitignore",
 		"/C/websites/newdcp/resources/views/careplan/bulk.blade.php",
-		"/C/websites/newdcp/app/Http/Controllers/TaskController.php",
-		"/C/websites/newdcp/app/Http/Controllers/JobsController.php",
-		"/C/websites/newdcp/app/Task.php",
-		"/C/websites/newdcp/resources/views/carers/workinghours.blade.php",
-		"/C/websites/newdcp/resources/views/layout.blade.php",
-		"/C/websites/newdcp/resources/views/reports/duration.blade.php",
-		"/C/websites/newdcp/resources/views/reports/wellbeing.blade.php",
-		"/C/websites/newdcp/resources/views/appointments/complete.blade.php",
-		"/C/websites/newdcp/resources/views/emails/arrived.blade.php",
-		"/C/websites/newdcp/app/Policies/AppointmentPolicy.php",
-		"/C/websites/newdcp/app/Messages.php",
-		"/C/websites/newdcp/config/auth.php",
-		"/C/websites/newdcp/storage/logs/laravel.log",
-		"/C/websites/newdcp/app/CarePlanTasks.php",
-		"/C/websites/newdcp/resources/views/careplan/index.blade.php",
-		"/C/websites/newdcp/resources/views/tasks/index.blade.php",
-		"/C/websites/newdcp/resources/views/careplan/create.blade.php",
-		"/C/websites/newdcp/app/Providers/TelescopeServiceProvider.php",
-		"/C/websites/newdcp/resources/views/jobs/index.blade.php",
-		"/C/websites/newdcp/public/js/fullcalendar.min.js",
-		"/C/websites/newdcp/resources/views/emails/3dayschedule.blade.php",
-		"/C/websites/newdcp/resources/views/messages/newmessages.blade.php",
-		"/C/websites/newdcp/resources/views/accounts/invoicing.blade.php",
-		"/C/websites/newdcp/resources/views/accounts/billing.blade.php",
-		"/C/websites/newdcp/public/.htaccess",
-		"/C/websites/newdcp/README.md",
-		"/C/websites/newdcp/resources/views/sessions/create.blade.php",
-		"/C/websites/newdcp/.env.example",
-		"/C/websites/newdcp/resources/views/menus/clientmenu.blade.php",
-		"/C/websites/newdcp/app/Http/Controllers/Controller.php",
-		"/C/websites/newdcp/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php",
-		"/C/websites/newdcp/app/Policies/ClientPolicy.php",
-		"/C/websites/newdcp/app/Policies/CarePlanPolicy.php",
-		"/C/websites/newdcp/app/Providers/AuthServiceProvider.php",
-		"/C/websites/newdcp/resources/views/emails/test.blade.php",
-		"/C/websites/newdcp/app/Job_History.php",
-		"/C/websites/newdcp/app/User.php",
-		"/C/websites/newdcp/resources/views/accounts/addpostcode.blade.php",
-		"/C/websites/newdcp/config/api.php",
-		"/C/websites/newdcp/resources/views/reports/pam.blade.php",
-		"/C/websites/newdcp/app/Http/Controllers/Auth/LoginController.php",
-		"/C/websites/newdcp/resources/lang/en/passwords.php",
-		"/C/websites/newdcp/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Transport/Esmtp/Auth/LoginAuthenticatorTest.php",
-		"/C/websites/newdcp/vendor/laravel/framework/src/Illuminate/Auth/Events/Login.php",
-		"/C/websites/newdcp/database/migrations/2014_10_12_000000_create_users_table.php",
-		"/C/websites/newdcp/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php",
-		"/C/websites/newdcp/app/dcpuser.php",
-		"/C/websites/newdcp/vendor/laravel/framework/src/Illuminate/Auth/Authenticatable.php"
+		"/C/websites/newdcp/app/Http/Controllers/TaskController.php"
 	],
 	"find":
 	{
@@ -313,6 +359,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"staff",
+			"careportal",
+			"staff",
+			"staffname",
+			"@auth",
 			"carer_name",
 			"name",
 			"dayschedule",
@@ -418,8 +469,97 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1472,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1415,
+								1415
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 570.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Controllers/ScheduleController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5557,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5553,
+								5553
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3544.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/schedule/resources.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2713,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1679,
+								1679
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 627.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -471,6 +611,34 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"auth/rou",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Console\\stubs\\make\\routes.stub"
+			],
+			[
+				"auth",
+				"config\\auth.php"
+			],
+			[
+				"routes",
+				"app\\Providers\\RouteServiceProvider.php"
+			],
+			[
+				"rout",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php"
+			],
+			[
+				"route",
+				"vendor\\symfony\\routing\\Router.php"
+			],
+			[
+				"router",
+				"vendor\\symfony\\routing\\Router.php"
+			],
+			[
+				"yar",
+				"yarn.lock"
+			],
 			[
 				"kern",
 				"app\\Console\\Kernel.php"
@@ -592,18 +760,6 @@
 				"vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Events\\Authenticated.php"
 			],
 			[
-				"auth",
-				"app\\Http\\Middleware\\Authenticate.php"
-			],
-			[
-				"rout",
-				"vendor\\symfony\\routing\\Router.php"
-			],
-			[
-				"route",
-				"vendor\\symfony\\routing\\Route.php"
-			],
-			[
 				"il/mi/a",
 				"vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php"
 			],
@@ -632,12 +788,16 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"C:\\websites\\newdcp\\newdcp.sublime-project"
+			]
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{
@@ -656,7 +816,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 318.0,
+	"side_bar_width": 405.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
